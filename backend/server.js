@@ -8,7 +8,7 @@ const products = require('./data/products.js');
 const admin = require('firebase-admin');
 
 //import serviceAccount from './deneme-898e6-firebase-adminsdk-cnwkv-eb541f03cf.json';
-const serviceAccount = require('./book-store-scrapper-54473-firebase-adminsdk-s3fpo-e73033ea8b.json');
+const serviceAccount = require('./book-store-e7be1-firebase-adminsdk-fo5vm-c4d7b0465a.json');
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
