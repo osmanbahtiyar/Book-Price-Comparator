@@ -2,7 +2,7 @@
 
 This is a website project for comparing book prices from kitapyurdu, idefix and d&r. This project contains both frontend and backend. We have used React for frontend and Express for backend. Our data comes from firestore db.
 
-For live demo please visit [https://bookstorefrontendd.herokuapp.com](https://bookstorefrontendd.herokuapp.com)
+For live demo please visit [https://bookstorefrontendd.herokuapp.com](https://bookstorefrontendd.herokuapp.com) (not active anymore)
 
 ## The Requirements
 
